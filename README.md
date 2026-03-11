@@ -36,8 +36,10 @@ set conceallevel=0
 nnoremap <C-n> :NERDTreeToggle<CR>
 
 ```
-git clone https://github.com/preservim/vim-markdown.git ~/.vim/pack/plugins/start/vim-markdown
-git clone https://github.com/vimwiki/vimwiki.git ~/.vim/pack/plugins/start/vimwiki
-git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/plugins/start/nerdtree
+1. git clone https://github.com/preservim/vim-markdown.git ~/.vim/pack/plugins/start/vim-markdown
+2. git clone https://github.com/vimwiki/vimwiki.git ~/.vim/pack/plugins/start/vimwiki
+3. git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/plugins/start/nerdtree
+
+
 
 
