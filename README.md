@@ -40,6 +40,7 @@ nnoremap <C-n> :NERDTreeToggle<CR>
 2. git clone https://github.com/vimwiki/vimwiki.git ~/.vim/pack/plugins/start/vimwiki
 3. git clone https://github.com/preservim/nerdtree.git ~/.vim/pack/plugins/start/nerdtree
 
+![Shell](https://raw.githubusercontent.com/cuongnguyen-git/Documentation/refs/heads/main/Screenshot%202026-03-11%20195656.png)
 
 
 
